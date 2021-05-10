@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205049152882",
+    "project_id": "toodles-290d4",
+    "storage_bucket": "toodles-290d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205049152882:android:f64d803c899adb79b889eb",
+        "android_client_info": {
+          "package_name": "com.example.toodle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205049152882-h6ieg2k8e13gg7mmv7d0fpv9uuac2nks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYLW3kGain_rBKFuLTDY4dEAfgLJMTM04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205049152882-h6ieg2k8e13gg7mmv7d0fpv9uuac2nks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
